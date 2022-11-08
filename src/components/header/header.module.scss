@@ -1,0 +1,10 @@
+.header {
+  background-color: #004d40;
+
+  .container {
+    width: 100%;
+    max-width: 1366px;
+    height: clamp(200px, 5vw, 350px);
+    margin: 0 auto;
+  }
+}
